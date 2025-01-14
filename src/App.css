@@ -1,0 +1,33 @@
+/* App.css */
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 5px;
+  margin: 20px auto;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  background-color: #fafafa;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.square:hover {
+  background-color: #e0e0e0;
+}
+
+.winner {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px;
+  margin: 20px;
+  cursor: pointer;
+}
