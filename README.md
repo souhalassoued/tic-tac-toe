@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gameplay Instructions : 
 
 -Choose to play against another player or the computer.
@@ -67,3 +68,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# tic-tac-toe
+A React.js and Tailwind CSS Tic Tac Toe game
+>>>>>>> 14236c68deab224e0c4542c9d4fef9a55a546486
